@@ -1,0 +1,6 @@
+$: sound("bd bd bd bd, - cp - <cp!3 cp*2>, hh*8")
+$: note("c*16")
+$: note("c [e c] [f g] <g!3 b5>")
+$: note("c2*8 c2*8 [e2*7 g2] g2*8")
+// $: note("[c5, b5, g5] [a5, b5, g5, e5]")
+// $: note("")
